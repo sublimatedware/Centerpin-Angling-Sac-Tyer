@@ -1,0 +1,10 @@
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\bin\Debug\Stage 4 Sac Tyer.exe.config
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\bin\Debug\Stage 4 Sac Tyer.exe
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\bin\Debug\Stage 4 Sac Tyer.pdb
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage 4 Sac Tyer.csproj.AssemblyReference.cache
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage_4_Sac_Tyer.Form1.resources
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage_4_Sac_Tyer.Properties.Resources.resources
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage 4 Sac Tyer.csproj.GenerateResource.cache
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage 4 Sac Tyer.csproj.CoreCompileInputs.cache
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage 4 Sac Tyer.exe
+O:\projects\Tight Sac O Matic 69000\Stage 4 Sac Tyer\c# windows client\Stage 4 Sac Tyer\obj\Debug\Stage 4 Sac Tyer.pdb

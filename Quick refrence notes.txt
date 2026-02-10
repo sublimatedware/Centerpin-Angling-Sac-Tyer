@@ -1,0 +1,16 @@
+•# teeth top race large gear:	100
+•# teeth stepper spur gear:	20
+•obvious drive ratio:		1:5
+•200 steps for nema 17
+•1/8 microstep
+•8000 steps for 1 revolution
+
+•PWM freq for 1 rps large gear:	8000 hz
+•Prescaler = 12-1 = 8 MHz
+•AutoRelod = 1000-1 = 8 Khz
+
+•General Timer 1us
+•prescaler = 96-1 = 1mhz
+•auto reload = 1000-1 = 1000 hz = 1 ms
+
+•nominal upward displacement distance for slicing: 4 cm
