@@ -68,6 +68,11 @@ def Set_CW_CallBack():
 def Set_CCW_CallBack():
     ser.write(b'aaf')                   #Set CCW rotation
 
+def sac_open_key():
+    ser.write(b'aab')                   #expand sack  direction change, pin pb6 low
+
+def sac_close_key():
+    ser.write(b'aaa')                   #compress sack  direction change, pin pb6 high
 
 def Set_Speed_Callback():
     char2 = int(dpg.get_value("Speed Bax")) & 0x00ff
@@ -100,6 +105,10 @@ def serialDoShit():
 dpg.create_context()
 dpg.create_viewport()
 dpg.setup_dearpygui()
+
+with dpg.handler_registry():
+    dpg.add_key_press_handler(key=dpg.mvKey_NumPad8, callback=sac_open_key)
+    dpg.add_key_press_handler(key=dpg.mvKey_NumPad2, callback=sac_close_key)
 
 with dpg.theme() as disabled_theme:
     with dpg.theme_component(dpg.mvButton, enabled_state=False):
